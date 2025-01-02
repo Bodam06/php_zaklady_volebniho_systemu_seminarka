@@ -1,0 +1,1 @@
+# php_zaklady_volebniho_systemu_seminarka
